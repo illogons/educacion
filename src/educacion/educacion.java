@@ -10,6 +10,8 @@ public class educacion {
 		int numero=0;
 		System.out.println("si es primo me la comes");
 		numero= teclado.nextInt();
+		System.out.println("si es primo me la comes");
+
 	}
 
 }
